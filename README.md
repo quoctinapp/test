@@ -14,4 +14,4 @@ B4: install vs code
     + https://code.visualstudio.com/download
 
 B2: impor the library needed
-    + pip install -r requirement.txt# khkt2024-2025
+    + pip install -r requirement.txt
